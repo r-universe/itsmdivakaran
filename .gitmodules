@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BivLaplaceRL"]
+	path = BivLaplaceRL
+	url = https://github.com/itsmdivakaran/bivlaplacerl
+[submodule "EasyStat"]
+	path = EasyStat
+	url = https://github.com/itsmdivakaran/easystat
 [submodule "RenyiExtropy"]
 	path = RenyiExtropy
 	url = https://github.com/itsmdivakaran/renyiextropy
