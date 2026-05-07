@@ -11,3 +11,6 @@
 [submodule "RenyiExtropy"]
 	path = RenyiExtropy
 	url = https://github.com/itsmdivakaran/renyiextropy
+[submodule "ViewR"]
+	path = ViewR
+	url = https://github.com/itsmdivakaran/viewr
