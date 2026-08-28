@@ -14,3 +14,6 @@
 [submodule "ViewR"]
 	path = ViewR
 	url = https://github.com/itsmdivakaran/viewr
+[submodule "ggnext"]
+	path = ggnext
+	url = https://github.com/itsmdivakaran/ggnext
